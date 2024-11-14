@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Ve1izar
 - 👀 I’m interested in web developement (fullstack)
-- 🌱 I’m currently learning HTMl, CSS, JS, Python, Pug, SCSS and frameworks
+- 🌱 I’m currently learning HTMl, CSS, JS, Python and frameworks
